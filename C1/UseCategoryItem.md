@@ -1,5 +1,4 @@
 # UseCategoryItem
-
 ```cpp - C++
 int UseCategoryItem(int categoryID);
 ```
