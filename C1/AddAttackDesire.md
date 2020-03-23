@@ -1,6 +1,6 @@
 # AddAttackDesire
----
-```
+
+```cpp - C++
 void AddAttackDesire(CSharedCreatureData* target, int actionMoveType, float value);
 ```
 
