@@ -1,1 +1,1 @@
-### C1
+### Chronicle I - AI Script Functions
