@@ -1,6 +1,6 @@
 # Castle_GetRawSiegeTime
----
-```
+
+```cpp - C++
 int Castle_GetRawSiegeTime();
 ```
 

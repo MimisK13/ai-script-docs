@@ -1,6 +1,6 @@
 # FHTML_SetStr
----
-```
+
+```cpp - C++
 void FHTML_SetStr(CFHTML* html, const wchar_t* varName, const wchar_t* value);
 ```
 

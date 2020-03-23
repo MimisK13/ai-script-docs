@@ -1,6 +1,6 @@
 # DistFromMe
----
-```
+
+```cpp - C++
 float DistFromMe(CSharedCreatureData* target);
 ```
 

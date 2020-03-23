@@ -1,6 +1,6 @@
 # FloatToInt
----
-```
+
+```cpp - C++
 int FloatToInt(float number);
 ```
 

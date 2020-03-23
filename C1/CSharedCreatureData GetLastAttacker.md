@@ -1,6 +1,6 @@
 # GetLastAttacker
----
-```
+
+```cpp - C++
 CSharedCreatureData* GetLastAttacker();
 ```
 

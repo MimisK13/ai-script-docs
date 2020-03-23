@@ -1,6 +1,6 @@
 # EarthQuakeByNPC
----
-```
+
+```cpp - C++
 void EarthQuakeByNPC(CSharedCreatureData* creature, int force, int duration, int left, int right, int up, int down);
 ```
 

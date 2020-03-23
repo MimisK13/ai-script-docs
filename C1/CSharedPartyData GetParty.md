@@ -1,6 +1,6 @@
 # GetParty
----
-```
+
+```cpp - C++
 CSharedPartyData* GetParty(CSharedCreatureData* partyMember);
 ```
 

@@ -1,6 +1,6 @@
 # UnregisterSiege
----
-```
+
+```cpp - C++
 void UnregisterSiege(CSharedCreatureData* talker);
 ```
 

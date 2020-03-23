@@ -1,6 +1,6 @@
 # DeleteRadar
----
-```
+
+```cpp - C++
 void DeleteRadar(CSharedCreatureData* talker, int x, int y, int z);
 ```
 

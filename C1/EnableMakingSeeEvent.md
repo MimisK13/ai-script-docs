@@ -1,6 +1,6 @@
 # EnableMakingSeeEvent
----
-```
+
+```cpp - C++
 void EnableMakingSeeEvent();
 ```
 

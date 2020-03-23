@@ -1,6 +1,6 @@
 # UseItem
----
-```
+
+```cpp - C++
 int UseItem(int itemNameId);
 ```
 

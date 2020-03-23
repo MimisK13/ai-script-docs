@@ -1,6 +1,6 @@
 # Despawn
----
-```
+
+```cpp - C++
 void Despawn();
 ```
 

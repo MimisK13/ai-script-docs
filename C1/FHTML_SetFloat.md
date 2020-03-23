@@ -1,6 +1,6 @@
 # FHTML_SetFloat
----
-```
+
+```cpp - C++
 void FHTML_SetFloat(CFHTML* html, const wchar_t* varName, float value);
 ```
 

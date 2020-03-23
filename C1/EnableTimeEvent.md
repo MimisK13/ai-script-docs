@@ -1,6 +1,6 @@
 # EnableTimeEvent
----
-```
+
+```cpp - C++
 void EnableTimeEvent(int time);
 ```
 

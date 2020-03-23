@@ -1,6 +1,6 @@
 # ClassChange
----
-```
+
+```cpp - C++
 int ClassChange(CSharedCreatureData* talker, int classType);
 ```
 
