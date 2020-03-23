@@ -1,11 +1,9 @@
 # OpenSiegeInfo
-
 ```cpp - C++
 void OpenSiegeInfo(CSharedCreatureData* talker);
 ```
 
 ### Examples
----
 ```cpp - C++
 handler:
     EventHandler TALKED(talker)

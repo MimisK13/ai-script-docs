@@ -6,7 +6,8 @@ void MakeAttackEvent(CSharedCreatureData* attacker, float damage, bool partyEven
 
 ### Examples
 ```cpp - C++
+EventHandler DESIRE_MANIPULATION(speller, desire)
 {
-
+	MakeAttackEvent(speller, desire, 0);
 }
 ```

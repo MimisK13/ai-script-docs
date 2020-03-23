@@ -6,7 +6,5 @@ const wchar_t* MakeFString(int index, const wchar_t* s1, const wchar_t* s2, cons
 
 ### Examples
 ```cpp - C++
-{
-
-}
+Say(MakeFString(1000001, "", "", "", "", ""));
 ```
