@@ -1,13 +1,9 @@
 # Despawn
-
 ```cpp - C++
 void Despawn();
 ```
 
 ### Examples
----
-
-##### #1
 ```cpp - C++
 if(ask == -201 && reply == 1) 
 {
@@ -15,7 +11,6 @@ if(ask == -201 && reply == 1)
 }
 ```
 
-##### #2
 ```cpp - C++
 handler:
 	EventHandler TALKED(talker, fhtml0) 

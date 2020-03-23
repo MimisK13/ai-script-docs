@@ -6,7 +6,5 @@ CSharedCreatureData* Pledge_GetCreature(CSharedCreatureData* pledgeMember, int i
 
 ### Examples
 ```cpp - C++
-{
 
-}
 ```

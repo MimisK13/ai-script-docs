@@ -6,7 +6,5 @@ CSharedCreatureData* Party_GetLeader(CSharedCreatureData* partyMember);
 
 ### Examples
 ```cpp - C++
-{
 
-}
 ```

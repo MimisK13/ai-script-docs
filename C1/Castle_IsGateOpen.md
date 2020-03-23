@@ -6,7 +6,5 @@ int Castle_IsGateOpen();
 
 ### Examples
 ```cpp - C++
-{
 
-}
 ```

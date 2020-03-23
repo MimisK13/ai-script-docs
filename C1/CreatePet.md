@@ -6,7 +6,5 @@ void CreatePet(CSharedCreatureData* talker, int petCollarClassID, int petNpcClas
 
 ### Examples
 ```cpp - C++
-{
-
-}
+CreatePet(talker, @wolf_collar, @pet_wolf_a);
 ```
