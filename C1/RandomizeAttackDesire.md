@@ -1,5 +1,4 @@
 # RandomizeAttackDesire
-
 ```cpp - C++
 void RandomizeAttackDesire();
 ```

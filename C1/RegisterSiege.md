@@ -1,5 +1,4 @@
 # RegisterSiege
-
 ```cpp - C++
 void RegisterSiege(CSharedCreatureData* talker);
 ```
