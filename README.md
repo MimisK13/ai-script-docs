@@ -1,5 +1,5 @@
-# AI Script Docs
-![Contributions welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen)
+# AI Script Docs 
+<p align="center">![Contributions welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen)</p>
 AI Scripting Documentation for **NASC** (*NCSOFT - AI - SCRIPT - COMPILER*)
 
 ## Contributing
