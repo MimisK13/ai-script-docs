@@ -1,6 +1,6 @@
 # Castle_GetLifeControlLevel
----
-```
+
+```cpp - C++
 int Castle_GetLifeControlLevel();
 ```
 

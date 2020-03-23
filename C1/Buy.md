@@ -1,6 +1,6 @@
 # Buy
----
-```
+
+```cpp - C++
 void Buy(CSharedCreatureData* talker, CBuySellList* buySellList, const wchar_t* shopname, const wchar_t* buyPage, const wchar_t* unableItemBuy, float fRatio);
 ```
 

@@ -1,6 +1,6 @@
 # Castle_BanishOthers
----
-```
+
+```cpp - C++
 void Castle_BanishOthers();
 ```
 
