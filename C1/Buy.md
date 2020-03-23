@@ -5,7 +5,7 @@ void Buy(CSharedCreatureData* talker, CBuySellList* buySellList, const wchar_t* 
 ```
 
 ### Examples 
----
+
 ```cpp - C++
 
 property:

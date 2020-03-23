@@ -5,8 +5,13 @@ void Castle_BanishOthers();
 ```
 
 ### Examples
-```cpp - C++
-{
 
-}
+```cpp - C++
+
+	if (reply == 1)
+	{
+		Castle_BanishOthers();
+		ShowPage(talker, fnAfterBanish);
+	}
+
 ```

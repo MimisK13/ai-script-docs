@@ -6,7 +6,5 @@ void AtomicDelete3Give1Item(CSharedCreatureData* creature, int delItem1ClassID, 
 
 ### Examples
 ```cpp - C++
-{
 
-}
 ```
