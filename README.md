@@ -1,6 +1,6 @@
 # AI Script Docs
 
-[![Contributions welcome][contribution-badge][contributing]]
+[![Contributions welcome][contribution-badge]][contributing][changelog]
 
 AI Scripting Documentation for **NASC** (*NCSOFT - AI - SCRIPT - COMPILER*)
 
@@ -12,5 +12,5 @@ Please do contribute! Issues and pull requests are welcome.
 Thank you for your help!
 
 [contributing]: ./CONTRIBUTING.md
-[contribution-badge]: https://img.shields.io/badge/changelog-Keep%20a%20Changelog%20v1.1.0-%23E05735
+[contribution-badge]: https://img.shields.io/badge/Contributions-Welcome-brightgreen
 [changelog]: ./CHANGELOG.md
