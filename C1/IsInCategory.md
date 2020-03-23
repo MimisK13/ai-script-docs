@@ -1,6 +1,6 @@
 # IsInCategory
----
-```
+
+```cpp - C++
 int IsInCategory(int categoryId, int classId);
 ```
 

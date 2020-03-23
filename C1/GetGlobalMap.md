@@ -1,6 +1,6 @@
 # GetGlobalMap
----
-```
+
+```cpp - C++
 int GetGlobalMap(int key);
 ```
 

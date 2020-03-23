@@ -1,6 +1,6 @@
 # InstantTeleport
----
-```
+
+```cpp - C++
 void InstantTeleport(CSharedCreatureData* creature, int x, int y, int z);
 ```
 

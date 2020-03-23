@@ -1,6 +1,6 @@
 # SayInt
----
-```
+
+```cpp - C++
 void SayInt(int value);
 ```
 

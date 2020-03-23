@@ -1,6 +1,6 @@
 # ShowSystemMessage
----
-```
+
+```cpp - C++
 void ShowSystemMessage(CSharedCreatureData* to, int messageID);
 ```
 

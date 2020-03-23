@@ -1,6 +1,6 @@
 # ReportDesire
----
-```
+
+```cpp - C++
 void ReportDesire();
 ```
 

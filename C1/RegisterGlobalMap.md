@@ -1,6 +1,6 @@
 # RegisterGlobalMap
----
-```
+
+```cpp - C++
 void RegisterGlobalMap(int key, int value);
 ```
 

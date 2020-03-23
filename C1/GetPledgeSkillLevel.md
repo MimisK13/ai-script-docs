@@ -1,6 +1,6 @@
 # GetPledgeSkillLevel
----
-```
+
+```cpp - C++
 int GetPledgeSkillLevel(CSharedCreatureData* pledgeMember);
 ```
 

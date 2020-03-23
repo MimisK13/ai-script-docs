@@ -1,6 +1,6 @@
 # StrToInt
----
-```
+
+```cpp - C++
 int StrToInt(const wchar_t* str);
 ```
 

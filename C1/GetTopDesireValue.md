@@ -1,6 +1,6 @@
 # GetTopDesireValue
----
-```
+
+```cpp - C++
 float GetTopDesireValue();
 ```
 

@@ -1,6 +1,6 @@
 # Residence_GetTaxIncome
----
-```
+
+```cpp - C++
 int Residence_GetTaxIncome();
 ```
 

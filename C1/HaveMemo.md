@@ -1,6 +1,6 @@
 # HaveMemo
----
-```
+
+```cpp - C++
 int HaveMemo(CSharedCreatureData* creature, int questID);
 ```
 

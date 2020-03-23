@@ -1,6 +1,6 @@
 # GetDirection
----
-```
+
+```cpp - C++
 int GetDirection(CSharedCreatureData* creature);
 ```
 

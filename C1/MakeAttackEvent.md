@@ -1,6 +1,6 @@
 # MakeAttackEvent
----
-```
+
+```cpp - C++
 void MakeAttackEvent(CSharedCreatureData* attacker, float damage, bool partyEvent);
 ```
 

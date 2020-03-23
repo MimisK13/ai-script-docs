@@ -1,6 +1,6 @@
 # OpenSiegeInfo
----
-```
+
+```cpp - C++
 void OpenSiegeInfo(CSharedCreatureData* talker);
 ```
 

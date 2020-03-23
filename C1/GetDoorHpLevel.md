@@ -1,6 +1,6 @@
 # GetDoorHpLevel
----
-```
+
+```cpp - C++
 void GetDoorHpLevel(CSharedCreatureData* talker, const wchar_t* doorName);
 ```
 

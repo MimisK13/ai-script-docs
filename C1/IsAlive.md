@@ -1,6 +1,6 @@
 # IsAlive
----
-```
+
+```cpp - C++
 int IsAlive(CSharedCreatureData* creature);
 ```
 

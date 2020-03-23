@@ -1,6 +1,6 @@
 # PledgeLevelUp
----
-```
+
+```cpp - C++
 void PledgeLevelUp(CSharedCreatureData* talker, int pledgeLevel);
 ```
 

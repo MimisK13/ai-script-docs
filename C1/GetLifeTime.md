@@ -1,6 +1,6 @@
 # GetLifeTime
----
-```
+
+```cpp - C++
 int GetLifeTime();
 ```
 

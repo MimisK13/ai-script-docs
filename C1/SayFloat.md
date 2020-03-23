@@ -1,6 +1,6 @@
 # SayFloat
----
-```
+
+```cpp - C++
 void SayFloat(float value);
 ```
 

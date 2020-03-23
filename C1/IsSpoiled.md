@@ -1,6 +1,6 @@
 # IsSpoiled
----
-```
+
+```cpp - C++
 int IsSpoiled();
 ```
 

@@ -1,6 +1,6 @@
 # HPRatio
----
-```
+
+```cpp - C++
 float HPRatio(CSharedCreatureData* creature);
 ```
 

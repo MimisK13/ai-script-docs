@@ -1,6 +1,6 @@
 # GetPledgeMoney
----
-```
+
+```cpp - C++
 int GetPledgeMoney(CSharedCreatureData* pledgeMember);
 ```
 

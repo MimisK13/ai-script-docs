@@ -1,6 +1,6 @@
 # GetAgitDeposit
----
-```
+
+```cpp - C++
 int GetAgitDeposit(int agitId);
 ```
 

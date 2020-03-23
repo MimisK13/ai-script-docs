@@ -1,6 +1,6 @@
 # IncrementParam
----
-```
+
+```cpp - C++
 void IncrementParam(CSharedCreatureData* creature, int type, float value);
 ```
 

@@ -1,6 +1,6 @@
 # GetMemoCount
----
-```
+
+```cpp - C++
 int GetMemoCount(CSharedCreatureData* creature);
 ```
 

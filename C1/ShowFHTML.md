@@ -1,6 +1,6 @@
 # ShowFHTML
----
-```
+
+```cpp - C++
 void ShowFHTML(CSharedCreatureData* sharedCreatureData, CFHTML* html);
 ```
 

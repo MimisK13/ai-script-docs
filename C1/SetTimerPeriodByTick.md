@@ -1,6 +1,6 @@
 # SetTimerPeriodByTick
----
-```
+
+```cpp - C++
 void SetTimerPeriodByTick(int tick);
 ```
 

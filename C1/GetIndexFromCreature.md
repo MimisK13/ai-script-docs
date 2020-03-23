@@ -1,6 +1,6 @@
 # GetIndexFromCreature
----
-```
+
+```cpp - C++
 int GetIndexFromCreature(CSharedCreatureData* creature);
 ```
 

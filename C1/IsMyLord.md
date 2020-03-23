@@ -1,6 +1,6 @@
 # IsMyLord
----
-```
+
+```cpp - C++
 int IsMyLord(CSharedCreatureData* talker);
 ```
 

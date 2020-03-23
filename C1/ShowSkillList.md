@@ -1,6 +1,6 @@
 # ShowSkillList
----
-```
+
+```cpp - C++
 void ShowSkillList(CSharedCreatureData* to, const wchar_t* byePage);
 ```
 

@@ -1,6 +1,6 @@
 # GetTick
----
-```
+
+```cpp - C++
 int GetTick();
 ```
 

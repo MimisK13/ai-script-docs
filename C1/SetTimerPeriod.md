@@ -1,6 +1,6 @@
 # SetTimerPeriod
----
-```
+
+```cpp - C++
 void SetTimerPeriod(int sec);
 ```
 

@@ -1,6 +1,6 @@
 # RemoveAllAttackDesire
----
-```
+
+```cpp - C++
 void RemoveAllAttackDesire();
 ```
 

@@ -1,6 +1,6 @@
 # Residence_VaultTakeOutMoney
----
-```
+
+```cpp - C++
 void Residence_VaultTakeOutMoney(CSharedCreatureData* arg_1, int arg_2);
 ```
 

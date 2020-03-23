@@ -1,6 +1,6 @@
 # GetCurrentTick
----
-```
+
+```cpp - C++
 int GetCurrentTick();
 ```
 
